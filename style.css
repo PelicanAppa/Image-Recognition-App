@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(45deg, rgb(231, 30, 30), rgb(173, 32, 192));
+}
+b{
+    color: white;
+}
+p{
+    color: whitesmoke;
+}
+label{
+    color: lightgrey;
+    font-size: 20px;
+}
+button{
+    width: 150px;
+}
+button:hover{
+    border-color:black;
+    border-width: 2px;
+    border-radius: 10%;
+}
+h3{
+    background-color: rgb(105, 27, 27);
+    width: 1000px;
+    height: 27px;
+    color: crimson;
+}
